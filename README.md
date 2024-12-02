@@ -17,5 +17,4 @@ JavaScript
    DOM manipulation and event handling
    Interactive features and animations
 
-How to Use
-   Explore each folder to view specific examples and explanations. This repository is designed for learning and reference, with content structured to gradually build a strong foundation in frontend development.
+
